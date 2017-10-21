@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TampilSourceCode</string>
+    <string-array name="list_spin">
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+</resources>
